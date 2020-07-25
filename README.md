@@ -31,7 +31,8 @@ NOTE :
 1) In some cases, your system might require explicit permissions to create a new socket. Please use "sudo" (without quotes) at 	
 	the beginning of the command or if using command prompt, run it as administrator.
 	
-2) For python codes if you encounter an error saying "No module found name <xyz>",
+2) For python codes if you encounter an error saying "No module found name <xyz>", please run
+	
 	   	  sudo pip3 install <xyz>
 
 
